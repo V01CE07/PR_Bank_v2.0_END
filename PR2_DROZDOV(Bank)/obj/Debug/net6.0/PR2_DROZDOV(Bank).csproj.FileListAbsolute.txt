@@ -1,0 +1,15 @@
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\bin\Debug\net6.0\PR2_DROZDOV(Bank).exe
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\bin\Debug\net6.0\PR2_DROZDOV(Bank).deps.json
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\bin\Debug\net6.0\PR2_DROZDOV(Bank).runtimeconfig.json
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\bin\Debug\net6.0\PR2_DROZDOV(Bank).dll
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\bin\Debug\net6.0\PR2_DROZDOV(Bank).pdb
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\PR2_DROZDOV(Bank).csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\PR2_DROZDOV(Bank).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\PR2_DROZDOV(Bank).AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\PR2_DROZDOV(Bank).AssemblyInfo.cs
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\PR2_DROZDOV(Bank).csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\PR2_DROZDOV(Bank).dll
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\refint\PR2_DROZDOV(Bank).dll
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\PR2_DROZDOV(Bank).pdb
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\PR2_DROZDOV(Bank).genruntimeconfig.cache
+C:\Users\prdb\Desktop\PR2_DROZDOV(Bank)\obj\Debug\net6.0\ref\PR2_DROZDOV(Bank).dll
